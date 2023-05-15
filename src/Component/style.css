@@ -1,0 +1,37 @@
+.click{
+    color: aqua;
+   
+}
+.bg{
+    background-color: rgb(242, 35, 35);
+    position: absolute;
+    left: 600px;
+    top: 100px;
+    width: 500px;
+    padding-left: 180px;
+    box-sizing: border-box;
+}
+.bg2{
+    background-color: violet;
+}
+.mouse{
+    color: greenyellow;
+    
+}
+.bghover{
+    position: absolute;
+    top: 500px;
+    background-color: blue;
+    width: 500px;
+    left: 600px;
+    padding-left: 180px;
+    box-sizing: border-box;
+}
+.addbt{
+    border-radius: 30px;
+    width: 100px;
+    height: 50px;
+    background-color: blueviolet;
+    color: aqua;
+    font-size: x-large;
+}
